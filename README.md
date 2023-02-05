@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- extend to recently released anomaly dataset ViSA and self-supervised method SpotDiff [here](https://github.com/amazon-science/spot-diff)
+- try out method with features from different pre-trainings: ResNet (MoCov2, OBoW, SWAV) or ViT (DINO, iBOT, MAE)
+----------------
+
 # Towards Total Recall in Industrial Anomaly Detection
 
 This repository contains the implementation for `PatchCore` as proposed in Roth et al. (2021), <https://arxiv.org/abs/2106.08265>.
